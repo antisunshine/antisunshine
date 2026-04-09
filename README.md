@@ -5,7 +5,7 @@ I’m currently learning at Centria University of Applied Sciences.
 I’m looking to collaborate on anything.
 
 - 📫 How to reach me:
-susanne.koljonen@centria.fi
+susanne.koljonen@gmail.com
 
 <!---
 antisunshine/antisunshine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
